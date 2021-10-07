@@ -1,0 +1,11 @@
+nav {
+  position: fixed;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: skyblue;
+}
